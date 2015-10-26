@@ -1,0 +1,19 @@
+body {
+	background-color:silver;
+margin:10%;
+
+color:red;
+
+padding:10px;
+position:relative;
+	 font-family:Times New Roman;
+}
+img.umd{
+display:block;
+margin: 0px auto;
+width:493px;
+height:326px;
+}
+p {
+color:green;}
+
