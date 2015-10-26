@@ -8,7 +8,8 @@ padding:10px;
 position:relative;
 	 font-family:Times New Roman;
 }
-img.umd{
+img{
+overflow:scroll;
 display:block;
 margin: 0px auto;
 width:493px;
